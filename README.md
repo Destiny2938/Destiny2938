@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi there, I'm [Destiny] 👋
+- A Frontend Developer passionate about building Responsive Web App.
+- Currently, I'm focusing on mastering JavaScript
 
+## 🛠️ Tech Stack
+
+- **Languages:** HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Currently Learning:** Basic of JavaScript
 <!--
 **Destiny2938/Destiny2938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
