@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML5, CSS3
+- **Languages:** HTML, CSS, JavaScript
 - **Tools & Platforms:** Git, GitHub, VS Code
 - **Currently Learning:** Basic of JavaScript
 <!--
