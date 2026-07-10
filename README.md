@@ -5,7 +5,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Tools & Platforms:** Git, GitHub, VS Code, roadmap.sh
 - **Currently Learning:** Basic of JavaScript
 <!--
 **Destiny2938/Destiny2938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
